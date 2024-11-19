@@ -1,1 +1,1 @@
-"Heart-Disease-Prediction-Project" 
+"Heart-Rate-Prediction-Project" 
